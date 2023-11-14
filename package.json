@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Marcos Aguilo",
+	"author": {
+		"name": "Marcos Aguilo",
+		"email": "marcosaguilo@gmail.com",
+		"url": "https://github.com/cochoaguilo/FreeCodeCamp-challenge"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
